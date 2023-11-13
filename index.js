@@ -1,2 +1,2 @@
-ley nome = "lucas"
+let nome = "lucas"
 console.log(nome)
